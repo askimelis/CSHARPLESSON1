@@ -1,0 +1,15 @@
+/Users/arturs/Desktop/GB/C_SHARP/Lectures/Lecture1/Task4/bin/Debug/net6.0/Task4
+/Users/arturs/Desktop/GB/C_SHARP/Lectures/Lecture1/Task4/bin/Debug/net6.0/Task4.deps.json
+/Users/arturs/Desktop/GB/C_SHARP/Lectures/Lecture1/Task4/bin/Debug/net6.0/Task4.runtimeconfig.json
+/Users/arturs/Desktop/GB/C_SHARP/Lectures/Lecture1/Task4/bin/Debug/net6.0/Task4.dll
+/Users/arturs/Desktop/GB/C_SHARP/Lectures/Lecture1/Task4/bin/Debug/net6.0/Task4.pdb
+/Users/arturs/Desktop/GB/C_SHARP/Lectures/Lecture1/Task4/obj/Debug/net6.0/Task4.csproj.AssemblyReference.cache
+/Users/arturs/Desktop/GB/C_SHARP/Lectures/Lecture1/Task4/obj/Debug/net6.0/Task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturs/Desktop/GB/C_SHARP/Lectures/Lecture1/Task4/obj/Debug/net6.0/Task4.AssemblyInfoInputs.cache
+/Users/arturs/Desktop/GB/C_SHARP/Lectures/Lecture1/Task4/obj/Debug/net6.0/Task4.AssemblyInfo.cs
+/Users/arturs/Desktop/GB/C_SHARP/Lectures/Lecture1/Task4/obj/Debug/net6.0/Task4.csproj.CoreCompileInputs.cache
+/Users/arturs/Desktop/GB/C_SHARP/Lectures/Lecture1/Task4/obj/Debug/net6.0/Task4.dll
+/Users/arturs/Desktop/GB/C_SHARP/Lectures/Lecture1/Task4/obj/Debug/net6.0/refint/Task4.dll
+/Users/arturs/Desktop/GB/C_SHARP/Lectures/Lecture1/Task4/obj/Debug/net6.0/Task4.pdb
+/Users/arturs/Desktop/GB/C_SHARP/Lectures/Lecture1/Task4/obj/Debug/net6.0/Task4.genruntimeconfig.cache
+/Users/arturs/Desktop/GB/C_SHARP/Lectures/Lecture1/Task4/obj/Debug/net6.0/ref/Task4.dll
